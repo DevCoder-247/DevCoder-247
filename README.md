@@ -69,6 +69,7 @@ GitHub
 |--------|-------------|------|
 | **EzzyCheck** | Fake Product Identification using Blockchain | React, Node, Web3, MongoDB |
 | **Resume Builder AI** | Automating and enhancing resume generation using Gemini API | MERN, Strapi, PostgreSQL |
+| **InfoSphere-RAG** | Document assistance for any document (pdf, img, etc.) using Gemini API | Python, Gradio |
 
 ---
 
