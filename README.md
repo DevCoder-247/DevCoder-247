@@ -63,19 +63,14 @@ GitHub
 
 ---
 
-🏆 **LeetCode Badges**
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/u/DevCoder-247/">
     <img src="lg250.png" width="90" style="border-radius: 12px; filter: grayscale(100%); transition: 0.3s; margin: 0 10px;" />
     <img src="lg2550.png" width="90" style="border-radius: 12px; filter: grayscale(100%); transition: 0.3s; margin: 0 10px;" />
     <img src="lg25100.png" width="90" style="border-radius: 12px; filter: grayscale(100%); transition: 0.3s; margin: 0 10px;" />
     <img src="lg200.png" width="90" style="border-radius: 12px; filter: grayscale(100%); transition: 0.3s; margin: 0 10px;" />
   </a>
-</p>
-
-
-
+</p> -->
 
 ### ✨ Featured Projects
 
