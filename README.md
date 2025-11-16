@@ -63,45 +63,17 @@ GitHub
 
 ---
 
-### 🏆 LeetCode Badges
+🏆 **LeetCode Badges**
 
-<style>
-.badge-container {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  padding: 10px 0;
-}
+<p align="center">
+  <a href="https://leetcode.com/u/DevCoder-247/">
+    <img src="lg250.png" width="90" style="border-radius: 12px; filter: grayscale(100%); transition: 0.3s; margin: 0 10px;" />
+    <img src="lg2550.png" width="90" style="border-radius: 12px; filter: grayscale(100%); transition: 0.3s; margin: 0 10px;" />
+    <img src="lg25100.png" width="90" style="border-radius: 12px; filter: grayscale(100%); transition: 0.3s; margin: 0 10px;" />
+    <img src="lg200.png" width="90" style="border-radius: 12px; filter: grayscale(100%); transition: 0.3s; margin: 0 10px;" />
+  </a>
+</p>
 
-.badge-container img {
-  width: 90px;
-  border-radius: 12px;
-  transition: 0.3s ease-in-out;
-  filter: grayscale(100%);
-  transform: scale(1);
-}
-
-.badge-container img:hover {
-  filter: grayscale(0%);
-  transform: scale(1.15);
-  box-shadow: 0 0 18px rgba(255, 255, 255, 0.8);
-}
-</style>
-
-<div class="badge-container">
-  <a href="https://leetcode.com/chikteabhay/" target="_blank">
-    <img src="assets/leetcode/october.png" alt="October Badge" />
-  </a>
-  <a href="https://leetcode.com/chikteabhay/" target="_blank">
-    <img src="assets/leetcode/50days.png" alt="50 Days Badge" />
-  </a>
-  <a href="https://leetcode.com/chikteabhay/" target="_blank">
-    <img src="assets/leetcode/100days.png" alt="100 Days Badge" />
-  </a>
-  <a href="https://leetcode.com/chikteabhay/" target="_blank">
-    <img src="assets/leetcode/200days.png" alt="200 Days Badge" />
-  </a>
-</div>
 
 
 
