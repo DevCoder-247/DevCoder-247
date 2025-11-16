@@ -63,6 +63,12 @@ GitHub
 
 ---
 
+### 🏆 LeetCode Badges
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/chikteabhay?theme=dark&font=baloo&ext=badge" width="600"/>
+</p>
+
 ### ✨ Featured Projects
 
 | Project | Description | Tech |
