@@ -64,8 +64,8 @@ GitHub
 ---
 
 ### 🏆 LeetCode Badges
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=chikteabhay)
 
-### 🏆 LeetCode Badges
 
 <p align="center">
   <!-- October Badge -->
