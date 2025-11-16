@@ -65,9 +65,22 @@ GitHub
 
 ### 🏆 LeetCode Badges
 
+### 🏆 LeetCode Badges
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/chikteabhay?theme=dark&font=baloo&ext=badge" width="600"/>
+  <!-- October Badge -->
+  <img src="https://assets.leetcode.com/static_assets/others/October_LeetCoding_Challenge.png" width="90" />
+
+  <!-- 200 Days Badge -->
+  <img src="https://assets.leetcode.com/static_assets/skills_badges/2024/persistence_200.png" width="90" />
+
+  <!-- 100 Days Badge -->
+  <img src="https://assets.leetcode.com/static_assets/skills_badges/2024/persistence_100.png" width="90" />
+
+  <!-- 50 Days Badge -->
+  <img src="https://assets.leetcode.com/static_assets/skills_badges/2024/persistence_50.png" width="90" />
 </p>
+
 
 ### ✨ Featured Projects
 
