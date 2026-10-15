@@ -5,7 +5,8 @@ GitHub
 <h3 align="center"> A Passionate MERN Full Stack Developer | Problem Solver | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,java,python,html,css,tailwind,redux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,git,github,postman,next,aws" />
 </p>
 
 
@@ -13,10 +14,10 @@ GitHub
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: `GSAP-Animated Websites..`
-- 👯 I’m looking to collaborate on: `Open Source MERN Projects`
-- 🌱 Currently diving deep into: **Microservices**, **System Design**, **Cloud (AWS/GCP)**
-- 💬 Ask me about: `React, Node, MongoDB, Express, Redux, C++, Java, SQL`
+- 🔭 I’m currently working as: `AI Intern with SenAI Solutions`
+- 👯 I’m looking to collaborate on: `Open Source AI Projects`
+- 🌱 Currently diving deep into: **Microservices**, **System Design**, **Cloud (AWS/GCP)**, **AI Agent dev**
+- 💬 Ask me about: `AI, React, Node, MongoDB, Express, Redux, C++, Java, SQL`
 - 📫 Reach me: **chikteabhay@gmail.com**
 - 📱 Contact: **+91 9421800905**
 - ⚡ Fun Fact: I debug faster than I fall asleep 😄  
@@ -29,6 +30,7 @@ GitHub
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 
@@ -36,6 +38,7 @@ GitHub
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 #### 🧠 Programming
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
