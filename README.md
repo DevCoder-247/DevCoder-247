@@ -84,6 +84,7 @@ GitHub
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| **SeccuraXVIT** | Auto Doc verification system for HR teams | Python, Gradio, Gemini-2.5-flash, Fast API |
 | **EzzyCheck** | Fake Product Identification using Blockchain | React, Node, Web3, MongoDB |
 | **Resume Builder AI** | Automating and enhancing resume generation using Gemini API | MERN, Strapi, PostgreSQL |
 | **InfoSphere-RAG** | Document assistance for any document (pdf, img, etc.) using Gemini API | Python, Gradio |
